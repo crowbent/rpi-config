@@ -9,7 +9,8 @@ select US layout
 ```
 
 ## Network config
-```$ sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+```
+$ sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 
 # add at the bottom
 network={
